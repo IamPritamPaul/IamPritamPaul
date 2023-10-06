@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rana Sarkar</h1>
+<h1 align="center">Hey, I'm Pritam Paul</h1>
 <h3 align="center">A passionate MERN stack developer from Agartala, India</h3>
 <h3 align="center">Working as a SDE (MT) at ADP India</h3>
 
